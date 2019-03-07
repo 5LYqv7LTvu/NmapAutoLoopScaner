@@ -1,1 +1,3 @@
 # NmapAutoLoopScaner
+
+I`m noob.
