@@ -1,3 +1,5 @@
 # NmapAutoLoopScaner
+Using Machintosh.
 
-I`m noob.
+You have to install pyton-nmap
+$python3 -m pip install python-nmap
